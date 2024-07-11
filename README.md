@@ -6,7 +6,7 @@
 
 •   `💻`   Programador <b>Front-end<b> Júnior.
 
-<img align="center" href="gabrielyzy.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielxisto&layout=compact&theme=transparent" alt="My Github Stats">
+<img align="center" href="gabrielyzy.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyzy&layout=compact&theme=transparent" alt="My Github Stats">
 
 
 ## 📡 Tecnologias
