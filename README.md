@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://cdn.discordapp.com/attachments/1101828434851811432/1263342848787353733/sem_fundo_avatar.png?ex=6699e336&is=669891b6&hm=91701843a9fae5275ebdb6dc8bb005978eef64718b189d37ba17af8cc5897111&" width="180" height="180" /> </div>
 
-•   `💻`ﾠSou Programador <b>Front-end Júnior</b>, entre em contato pelo meu [Linkedin](https://www.linkedin.com/in/gabriel-ugoline-dos-santos-88537730a/) ou [Discord](https://discord.gg/G5xBya5Tbe).<br>
+•   `💻`ﾠSou Programador <b>Front-end Júnior</b>, entre em contato pelo meu [Portifólio](https://gabrielyzy--eight.vercel.app) .<br>
 •  `📁`ﾠFundador <b>Gate Devlopment</b><br>
 •  `📌`ﾠMinas Gerais
 
