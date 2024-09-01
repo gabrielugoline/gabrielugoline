@@ -4,7 +4,7 @@
 
 
 •   `💻`ﾠSou Programador <b>Front-end Júnior</b>, entre em contato pelo meu [Portifólio](https://gabrieldev-eight.vercel.app) .<br>
-•  `📁`ﾠFundador <b>Gate Devlopment</b><br>
+•  `📁` Técnico <b>em Informática</b><br>
 •  `📌`ﾠMinas Gerais
 
 ##  🧠 Tecnologias
