@@ -18,5 +18,5 @@
 <p align= "center"> <b>Connect with me...</b> </p>
 
 <div align="center">
-<a href='https://www.linkedin.com/in/gabriel-ugoline-dos-santos-88537730a/'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='Imagem LinkedIn' /> </a>
+<a href='https://www.linkedin.com/in/gabrielugoline'> <img src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white' alt='Imagem LinkedIn' /> </a>
  </div>
