@@ -10,7 +10,7 @@
 
 ## 🧠 Languages
 
-<div align="center">
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img align="center" alt="HTML5" height="50" src="https://github.com/user-attachments/assets/2fa7d4e6-2c36-4543-8c32-3d56eff8b161" title="HTML5" />
   </a>
@@ -20,14 +20,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="JavaScript" height="50" src="https://github.com/user-attachments/assets/729eaa3e-76f5-4f5f-a073-1e649915d677" title="JavaScript" />
   </a>
-</div>
+
 
 
 ---
 
-<h3 align="center">🌐 Connect with me...</h3>
+<h3 >🌐 Connect with me...</h3>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/gabrielugoline" target="_blank">
     <img align="center" alt="LinkedIn" height="50" src="https://github.com/user-attachments/assets/dc3231de-2a87-4d3e-9fe1-38e264b21018" />
   </a>
