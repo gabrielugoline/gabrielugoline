@@ -2,7 +2,7 @@
 
 <p align="center">Olá, me chamo Gabriel!</p>
 
-- 💻 Sou Programador **Front-end Júnior**, entre em contato pelo meu [Portfólio](https://gabrieldev-eight.vercel.app)
+- 💻 Sou Programador **Front-end Júnior**, entre em contato pelo meu [Portfólio](https://gabrieldev-theta.vercel.app)
 - 📁 Técnico em **Informática**
 - 📌 Localização: **Minas Gerais**
 
