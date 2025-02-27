@@ -20,9 +20,7 @@
 <a href="#" target="_blank">
   <img align="center" alt="JavaScript" height="50" src="https://github.com/user-attachments/assets/729eaa3e-76f5-4f5f-a073-1e649915d677" title="JavaScript"/>
 </a>
-<a href="#" target="_blank">
-  <img align="center" alt="Typescript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript"/>
-</a>
+
 <a href="#" target="_blank">
   <img align="center" alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"/>
 </a>
@@ -32,15 +30,9 @@
 <a href="#" target="_blank">
   <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </a>
-<a href="#" target="_blank">
-  <img align="center" alt="Discord.js" height="50" src="https://github.com/user-attachments/assets/c85f7de4-1469-4dfa-a463-d24d7eae9f83" title="Discord.js"/>
-</a>
 
 <a href="#" target="_blank">
-  <img align="center" alt="Swift" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="Swift" />
-</a>
-<a href="#" target="_blank">
-  <img align="center" alt="Kotlin" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" />
+  <img align="center" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React Native" />
 </a>
 <a href="#" target="_blank">
   <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" />
