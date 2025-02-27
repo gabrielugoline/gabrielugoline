@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Languages
+## 🧠 Ferramentas
 
 
 <a href="#" target="_blank">
