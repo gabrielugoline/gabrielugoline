@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/gabrielugoline" target="_blank">
     <img align="center" alt="LinkedIn" height="50" src="https://github.com/user-attachments/assets/dc3231de-2a87-4d3e-9fe1-38e264b21018" />
   </a>
-  <a href="https://discord.gg/gatedev" target="_blank">
+  <a href="https://discord.gg/gatedevelopment" target="_blank">
     <img align="center" alt="Discord" height="50" src="https://github.com/user-attachments/assets/c85f7de4-1469-4dfa-a463-d24d7eae9f83" />
   </a>
   <a href="https://www.instagram.com/gabrielugoline1/" target="_blank">
