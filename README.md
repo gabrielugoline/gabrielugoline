@@ -1,9 +1,14 @@
-<h2 align="center">🙋🏽‍♂️ Seja bem-vindo ao meu GitHub!</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-<p align="center">Olá, me chamo Gabriel!</p>
 
-- 💻 Sou Programador **Front-end Júnior**, entre em contato pelo meu [Portfólio](https://gabrieldev-theta.vercel.app)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
+
+
+
+##
+- 💻 Desenvolvedor **Front-end Júnior**, entre em contato pelo meu [Portfólio](https://www.gatedev.com.br/) ou pelas redes sociais.
 - 📁 Técnico em **Informática**
+- 👨‍💻 Cursando **Análise e Desenvolvimento de Sistemas**
 - 📌 Localização: **Minas Gerais**
 
 ---
@@ -38,12 +43,19 @@
   <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" />
 </a>
 
+<div align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajltYXRiZGduNnJnc293ZDMxaDljZmUxYWdkN3h0NWIyYmx3a20xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhkKkEAOMT2jNgauN6/giphy.gif" 
+       width="200px" height="auto"/>
+</div>
+
+
+
 
 
 
 ---
 
-<h3 >🌐 Connect with me...</h3>
+<h3 >🌐 Redes Sociais</h3>
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielugoline" target="_blank">
@@ -56,3 +68,11 @@
     <img align="center" alt="Instagram" height="50" src="https://github.com/user-attachments/assets/dbced11f-244a-490c-a7a4-87a4b8621ae0" />
   </a>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+
+
+
+
+
+
+
