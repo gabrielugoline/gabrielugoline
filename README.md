@@ -43,10 +43,7 @@
   <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" />
 </a>
 
-<div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajltYXRiZGduNnJnc293ZDMxaDljZmUxYWdkN3h0NWIyYmx3a20xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhkKkEAOMT2jNgauN6/giphy.gif" 
-       width="100px" height="auto"/>
-</div>
+
 
 
 
