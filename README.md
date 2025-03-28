@@ -8,7 +8,7 @@
 ##
 - 💻 Desenvolvedor **Front-end Júnior**, entre em contato pelo meu [Portfólio](https://gabrieldev-portfolio-lake.vercel.app/) ou pelas redes sociais.
 - 📁 Técnico em **Informática**
-- 👨‍💻 Cursando **Análise e Desenvolvimento de Sistemas**
+- 👨‍💻 **Engenheiro de Software**
 - 📌 Localização: **Minas Gerais**
 
 ---
