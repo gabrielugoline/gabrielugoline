@@ -61,7 +61,7 @@
   <a href="https://discord.gg/gatedevelopment" target="_blank">
     <img align="center" alt="Discord" height="50" src="https://github.com/user-attachments/assets/c85f7de4-1469-4dfa-a463-d24d7eae9f83" />
   </a>
-  <a href="https://www.instagram.com/gabrielugoline1/" target="_blank">
+  <a href="https://www.instagram.com/gabrielugoline/" target="_blank">
     <img align="center" alt="Instagram" height="50" src="https://github.com/user-attachments/assets/dbced11f-244a-490c-a7a4-87a4b8621ae0" />
   </a>
 </div>
