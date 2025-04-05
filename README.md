@@ -6,9 +6,9 @@
 
 
 ##
-- 💻 Desenvolvedor **Front-end Júnior**, entre em contato pelo meu [Portfólio]() ou pelas redes sociais.
+- 💻 Desenvolvedor **Júnior**, entre em contato pelo meu [Portfólio]() ou pelas redes sociais.
 - 📁 Técnico em **Informática**
-- 👨‍💻 **Engenheiro de Software**
+- 👨‍💻 **Cursando Engenharia de Software**
 - 📌 Localização: **Minas Gerais**
 
 ---
