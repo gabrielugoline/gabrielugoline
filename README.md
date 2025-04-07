@@ -35,12 +35,6 @@
   <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </a>
 
-<a href="#" target="_blank">
-  <img align="center" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React Native" />
-</a>
-<a href="#" target="_blank">
-  <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" />
-</a>
 
 
 
