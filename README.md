@@ -6,13 +6,13 @@
 
 
 ##
-- 💻 Desenvolvedor Front-End **Júnior**, entre em contato pelo meu [Portfólio](https://gabrielugoline.vercel.app/) ou pelas redes sociais.
+- 💻 Desenvolvedor Full-Stack **Júnior**, entre em contato pelo meu [Portfólio](https://gabrielugoline.vercel.app/) ou pelas redes sociais.
 - 📁 Técnico em **Informática**
 - 📌 Localização: **Minas Gerais**
 
 ---
 
-## 🧠 Ferramentas
+## 🧠 Linguagens
 
 
 <a href="#" target="_blank">
@@ -24,7 +24,9 @@
 <a href="#" target="_blank">
   <img align="center" alt="JavaScript" height="50" src="https://github.com/user-attachments/assets/729eaa3e-76f5-4f5f-a073-1e649915d677" title="JavaScript"/>
 </a>
-
+<a href="#" target="_blank">
+  <img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
+</a>
 <a href="#" target="_blank">
   <img align="center" alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"/>
 </a>
@@ -34,6 +36,16 @@
 <a href="#" target="_blank">
   <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </a>
+<a href="#" target="_blank">
+  <img align="center" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
+</a>
+<a href="#" target="_blank">
+  <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#"/>
+</a>
+<a href="#" target="_blank">
+  <img align="center" alt="SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL"/>
+</a>
+
 
 
 
