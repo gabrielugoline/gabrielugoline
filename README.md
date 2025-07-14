@@ -1,9 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
-
-
 
 ##
 - 💻 Desenvolvedor Full-Stack **Júnior**, entre em contato pelo meu [Portfólio](https://gabrielugoline.vercel.app/) ou pelas redes sociais.
@@ -13,7 +10,6 @@
 ---
 
 ## 🧠 Linguagens
-
 
 <a href="#" target="_blank">
   <img align="center" alt="HTML5" height="50" src="https://github.com/user-attachments/assets/2fa7d4e6-2c36-4543-8c32-3d56eff8b161" title="HTML5" />
@@ -36,19 +32,13 @@
 <a href="#" target="_blank">
   <img align="center" alt="SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL"/>
 </a>
-
-
-
-
-
-
-
-
-
+<a href="#" target="_blank">
+  <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#"/>
+</a>
 
 ---
 
-<h3 >🌐 Redes Sociais</h3>
+<h3>🌐 Redes Sociais</h3>
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielugoline" target="_blank">
@@ -61,11 +51,5 @@
     <img align="center" alt="Instagram" height="50" src="https://github.com/user-attachments/assets/dbced11f-244a-490c-a7a4-87a4b8621ae0" />
   </a>
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
-
-
-
-
-
-
-
