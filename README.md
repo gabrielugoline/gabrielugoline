@@ -29,6 +29,9 @@
 <a href="#" target="_blank"> 
 <img align="center" alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#"/> </a> 
 
+<a href="#" target="_blank"> 
+  <img align="center" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/> </a>
+  
 ---
 
 
