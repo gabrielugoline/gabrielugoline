@@ -11,12 +11,7 @@
 
 ## 🧠 Linguagens
 
-<a href="#" target="_blank">
-  <img align="center" alt="HTML5" height="50" src="https://github.com/user-attachments/assets/2fa7d4e6-2c36-4543-8c32-3d56eff8b161" title="HTML5" />
-</a>
-<a href="#" target="_blank">
-  <img align="center" alt="CSS3" height="50" src="https://github.com/user-attachments/assets/158f6114-61b3-4ff2-8753-b429ce3402a0" title="CSS3" />
-</a>
+
 <a href="#" target="_blank">
   <img align="center" alt="JavaScript" height="50" src="https://github.com/user-attachments/assets/729eaa3e-76f5-4f5f-a073-1e649915d677" title="JavaScript"/>
 </a>
