@@ -4,7 +4,7 @@
 
 ##
 - 💻 Desenvolvedor Full-Stack **Júnior**, entre em contato pelo meu [Portfólio](https://gabrielugoline.vercel.app/) ou pelas redes sociais.
-- 📁 Técnico em **Informática**
+- 📁 Cursando **Engenharia de Software**
 - 📌 Localização: **Minas Gerais**
 
 ---
